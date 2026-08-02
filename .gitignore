@@ -1,0 +1,8 @@
+*.db
+*.log
+.ssh/
+decrypt-key/
+.cache/
+.config/
+.npm/
+.bash_history
